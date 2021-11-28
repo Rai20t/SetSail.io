@@ -1,1 +1,1 @@
-# SetSail.io
+# SetSail.github.io
